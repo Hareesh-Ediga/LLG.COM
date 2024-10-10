@@ -4,3 +4,5 @@ RegvectorAI Bengaluru, India
 • Contributed extensively to web development projects, utilizing the MERN Stack.
 • Actively participated in team meetings, offering valuable perspectives and recommendations for enhancement.
 • Assisted in debugging and troubleshooting issues in the web application.
+
+Result : legallawguru.com
