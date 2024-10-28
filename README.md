@@ -7,3 +7,7 @@ RegvectorAI Bengaluru, India
 
 Result : legallawguru.com
 https://legallawguru.com/
+
+Our project received tremendous support from Divya K, a National Cyber Security Scholar, Google WTM Ambassador, and Cybersecurity Community Leader.
+
+You can view her full post on LinkedIn here:https://www.linkedin.com/feed/update/urn:li:activity:7142502811052744705?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7142502811052744705%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
